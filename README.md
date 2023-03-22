@@ -1,7 +1,7 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)](https://rishavchanda.io)
 <h1 align="center">Assalamu'alaikum 👋, Saya Mas HenryAi</h1>
 <h3 align="center">Tutor Universitas SIBERMU Mata Kuliah Analisis Dan Visualisasi Data</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ <p align="center"> <img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryai-sibermu&label=Profile%20views&color=0e75b6&style=flat" alt="henryai-sibermu" /> </p>
 
 - I’m currently working on [SIBERMU university](https://sibermu.ac.id/)
