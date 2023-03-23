@@ -16,13 +16,15 @@
 2. **[Survey Developer Dunia terhadap Python](#survey-developer-dunia-terhadap-python)**
 3. **[Dibalik Layar ChatGPT](#dibalik-layar-chatGPT)**
 
+### 💡 Materi - Intro Data Engineer, Data Analyst, Data Science
+1. **[Data Skillset Roadmap](#data-skillset-roadmap)**
+
 ### 💡 Materi - Intro Python, Anaconda, Jupyter 101
-1. **[Python Mindmap](#free-books)**
-2. **[EDA Workflow](#free-books)**
-3. **[Python Roadmap](#free-books)**
-4. **[Python Terminology](#free-books)**
-5. **[Anaconda Navigator](#free-books)**
-6. **[Jupyter Notebook](#free-books)**
+1. **[Python Roadmap](#python-roadmap)**
+2. **[Python Terminology](#python-terminology)**
+3. **[EDA Workflow](#eda-workflow)**
+4. **[Anaconda Navigator](#anaconda-navigator)**
+5. **[Jupyter Notebook](#jupyter-notebook)**
 
 ### 💡 Materi - Tools Installation
 1. **[Python](#free-books)**
@@ -101,3 +103,14 @@ The model was trained on:
 The policy model was [evaluated by humans,](https://github.com/openai/following-instructions-human-feedback/blob/main/model-card.md) 
 
 >InstructGPT is then further fine-tuned on a dataset labeled by human labelers. The labelers comprise a team of about 40 contractors whom we hired through Upwork and ScaleAI. Our aim was to select a group of labelers who were sensitive to the preferences of different demographic groups, and who were good at identifying outputs that were potentially harmful. Thus, we conducted a screening test designed to measure labeler performance on these axes. We selected labelers who performed well on this test. We collaborated closely with the labelers over the course of the project. We had an onboarding process to train labelers on the project, wrote detailed instructions for each task, and answered labeler questions in a shared chat room.
+
+--
+
+<h1 align="center">Data Skillset Roadmap</h1>
+
+![Logo](https://lms.onnocenter.or.id/wiki/images/b/bb/Image_bc1fdaa7-c81d-4c41-a313-b1236e4c847720191203_114823.jpg)
+
+<h1 align="center">Python Roadmap</h1>
+
+![Logo](https://roadmap.sh/roadmaps/python.png)
+Source: https://roadmap.sh/python
