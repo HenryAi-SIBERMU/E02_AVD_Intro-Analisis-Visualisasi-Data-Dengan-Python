@@ -17,21 +17,22 @@
 2. **[Survey Developer Dunia terhadap Python](#survey-developer-dunia-terhadap-python)**
 3. **[Dibalik Layar ChatGPT](#dibalik-layar-chatGPT)**
 
-### 💡 Materi - Intro Data Engineer, Data Analyst, Data Science
+### 💡 Materi - Intro 101 Data Engineer, Data Analyst, Data Science
 1. **[Data Skillset Roadmap](#data-skillset-roadmap)**
 
-### 💡 Materi - Intro Python, Anaconda, Jupyter 101
+### 💡 Materi - Intro 101 Data Science Dengan Python
 1. **[Python Roadmap](#python-roadmap)**
 2. **[Python Terminology](#python-terminology)**
-3. **[EDA Workflow](#eda-workflow)**
+3. **[Dataset, Model, Evaluasi](#dataset,-model,-evaluasi)**
 4. **[Anaconda Navigator](#anaconda-navigator)**
 5. **[Jupyter Notebook](#jupyter-notebook)**
 
 ### 💡 Materi - Tools Installation
-1. **[Python](#free-books)**
-2. **[Anaconda](#free-books)**
-3. **[Jupyter](#free-books)**
-4. **[Package & Library](#free-books)**
+1. **[instalasi Python](#instalasi-python)**
+2. **[Anaconda](#instalasi-anaconda)**
+3. **[Jupyter](#instalasi-jupyter)**
+5. **[orange](#instalasi-orange)**
+4. **[Package & Library](#package-&-library)**
 
 ### 💡 Materi - Experiment REPO #1
 1. **[Repo Data Visualisasi dengan Dataset IRIS](#free-books)**
@@ -124,9 +125,31 @@ Source: https://roadmap.sh/python
 Source: https://www.w3schools.com/python/python_ref_glossary.asp
 
 ### Beberapa Terms Basic
-- Tipe Data  (Strings,int,floats,list,dictionary, tupels, sets, boolean)
-- 
+- Tipe Data  (Strings,int,floats,list,dictionary, tuples, sets, boolean)
+- Oop (Object, class, method fucntion)
+- etc
 
 ### Beberapa Terms Yang Tricky
 - Pypi, conda, pip Packages
 - Modules, Packages, Library, Framework
+- etc
+
+--
+
+<h1 align="center">Dataset, Model, Evaluasi</h1>
+
+![Logo](https://lms.onnocenter.or.id/wiki/images/9/9f/Image_e4a257c0-1b12-49e8-9af1-07a01b892e5820200115_040958.jpg)
+![Logo](https://serokell.io/files/df/dfsdv4ab.2_(23)_(1).jpg)
+
+### Populer Benchmark Dataset
+- ImageNET
+- iris
+- speech_commands
+- MNIST
+- etc
+
+### Crawling Dataset
+- https://archive.ics.uci.edu/ml/datasets.php
+- https://datasetsearch.research.google.com/
+- https://www.kaggle.com/
+- https://huggingface.co/
