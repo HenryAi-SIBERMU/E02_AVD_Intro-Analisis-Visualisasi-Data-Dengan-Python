@@ -12,7 +12,8 @@
 1. [Penegenalan Analisis dan Visualiasi Data menggunakan Python](https://youtube.com/live/3dlj5VZEKN8)
 
 ### 🔎 Intermezzo & Funfact
-1. [Sejarah ML, DL, Ai](https://qbi.uq.edu.au/files/40697/The-Brain-Intelligent-Machines-AI-timeline.jpg)
+1. [Sejarah ML, DL, Ai](https://www.algotive.ai/hs-fs/hubfs/00%20Blog/02%20Machine%20Learning/timeline.jpg?width=1200&name=timeline.jpg)
+1. **[Sejarah ML, DL, Ai](#Sejarah-ML,-DL,-Ai)**
 2. [Survey Developer Dunia terhadap Python](https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-programming-scripting-and-markup-languages)
 3. [Dibalik Layar Chat GPT ](https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698)
 
@@ -36,4 +37,20 @@
 
 <h1 align="center">Sejarah ML, DL, Ai</h1>
 
-![Logo](https://qbi.uq.edu.au/files/40697/The-Brain-Intelligent-Machines-AI-timeline.jpg)
+![Logo](https://www.algotive.ai/hs-fs/hubfs/00%20Blog/02%20Machine%20Learning/timeline.jpg?width=1200&name=timeline.jpg)
+
+### Early 2000an Prestasi-Prestasi Model ML dari perlombaan kini dikembangkan Raksasa teknologi
+- IBM dengan IBM Watson mengalahkan Atlet Jepoardy
+- Google dengan Google brain dengan Aplha Go Mengalahkan Atlet go
+
+### Lalu Bermunculan Entitas Perusahaan Berfokus Pada Riset Data Analysis Seperti :
+- Google Brain
+- Alexnet
+- OpenAi
+- Deepface
+- Google Deepmind
+- Resnet
+
+<h1 align="center">Survey Developer Dunia terhadap Python</h1>
+
+![Logo](https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-programming-scripting-and-markup-languages)
