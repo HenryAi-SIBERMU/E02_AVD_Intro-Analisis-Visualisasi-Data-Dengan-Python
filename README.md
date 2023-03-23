@@ -2,11 +2,12 @@
 
 # Outline Pertemuan 2 - Pengenalan lanjutan dan Instalasi Tools Analisis Visualisasi Data Dengan PYTHON
 
-### 📖 Refrensi Buku
+### 📖 Refrensi
 1. [Machine Learning Yearning](https://youtube.com/live/3dlj5VZEKN8) By Andrew Ng
 2. [The Hundred Page Machine Learning Book](https://youtube.com/live/3dlj5VZEKN8) By Andriy Burkov
 3. [Learning From Data](https://youtube.com/live/3dlj5VZEKN8) By Yaser S. Abu Mostafa
 4. [Pengenalan Konsep Pembelajaran Mesin dan Deep Learning](https://youtube.com/live/3dlj5VZEKN8) By Jan Wira Gotama Putra
+5. [Web App ML](https://teachablemachine.withgoogle.com/) By Google
 
 ### 📋 Preview Pertemuan Perdana
 1. [Penegenalan Analisis dan Visualiasi Data menggunakan Python](https://youtube.com/live/3dlj5VZEKN8)
@@ -33,7 +34,7 @@
 4. **[Package & Library](#free-books)**
 
 ### 💡 Materi - Experiment REPO #1
-1. **[Repo Data Visualisasi Interaktif Dengan Grafana](#free-books)**
+1. **[Repo Data Visualisasi dengan Dataset IRIS](#free-books)**
 
 --
 
@@ -70,7 +71,7 @@ Source: https://insights.stackoverflow.com/survey/2021#section-most-popular-tech
 
 Quick investigation yang dilakukan oleh (https://gist.github.com/veekaybee/6f8885e9906aa9c5408ebe5c7e870698), mem breakdown teknologi dibelakangya.
 
-##  Model Architecture
+##  Model Architecture (Generative pre-trained transformer Model)
 
 <img width="680" src="https://camo.githubusercontent.com/85d00cf9bca67e33c2d1270b51ff1ac01853b26a8d6bb226b711f859d065b4a6/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f74726c2d696e7465726e616c2d74657374696e672f6578616d706c652d696d616765732f7265736f6c76652f6d61696e2f696d616765732f74726c5f6f766572766965772e706e67">
 Source: https://github.com/lvwerra/trl
@@ -110,7 +111,22 @@ The policy model was [evaluated by humans,](https://github.com/openai/following-
 
 ![Logo](https://lms.onnocenter.or.id/wiki/images/b/bb/Image_bc1fdaa7-c81d-4c41-a313-b1236e4c847720191203_114823.jpg)
 
+--
+
 <h1 align="center">Python Roadmap</h1>
 
 ![Logo](https://roadmap.sh/roadmaps/python.png)
 Source: https://roadmap.sh/python
+
+--
+
+<h1 align="center">Python Terminology</h1>
+Source: https://www.w3schools.com/python/python_ref_glossary.asp
+
+### Beberapa Terms Basic
+- Tipe Data  (Strings,int,floats,list,dictionary, tupels, sets, boolean)
+- 
+
+### Beberapa Terms Yang Tricky
+- Pypi, conda, pip Packages
+- Modules, Packages, Library, Framework
