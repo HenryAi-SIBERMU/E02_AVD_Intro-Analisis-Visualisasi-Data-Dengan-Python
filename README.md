@@ -29,17 +29,23 @@
 
 ### 💡 Materi - Tools Installation
 1. **[instalasi Python](#instalasi-python)**
-2. **[Anaconda](#instalasi-anaconda)**
-3. **[Jupyter](#instalasi-jupyter)**
-5. **[orange](#instalasi-orange)**
-4. **[Package & Library](#package-&-library)**
+2. **[instalasi Anaconda](#instalasi-anaconda)**
+3. **[instalasi Jupyter](#instalasi-jupyter)**
+5. **[instalasi orange](#instalasi-orange)**
+4. **[instalasi Package & Library](#package-&-library)**
+
+### 💡 Materi - Run/Compile Basic Python Syntax
+1. **[Hello World](#hello-world)**
+2. **[Basic Syntax](#basic-syntax)**
+
+
 
 ### 💡 Materi - Experiment REPO #1
-1. **[Repo Data Visualisasi dengan Dataset IRIS](#free-books)**
+1. **[Repo Visualisasi Data dengan Dataset IRIS](#free-books)**
 
 --
 
-<h1 align="center">Sejarah ML, DL, Ai</h1>
+<h1 align="center">📍 Sejarah ML, DL, Ai</h1>
 
 ![Logo](https://www.algotive.ai/hs-fs/hubfs/00%20Blog/02%20Machine%20Learning/timeline.jpg?width=1200&name=timeline.jpg)
 
@@ -55,7 +61,7 @@
 - Google Deepmind
 - Resnet
 
-<h1 align="center">Survey Developer Dunia terhadap Python</h1>
+<h1 align="center">📍 Survey Developer Dunia terhadap Python</h1>
 
 ![Logo](https://www.heliossolutions.co/blog/wp-content/uploads/2020/06/Top-programming-scripting-and-markup-languages.jpg)
 
@@ -64,7 +70,7 @@ Source: https://insights.stackoverflow.com/survey/2021#section-most-popular-tech
 --
 --
 
-<h1 align="center">Dibalik Layar ChatGPT</h1>
+<h1 align="center">📍 Dibalik Layar ChatGPT</h1>
 
 # ChatGPT Resources
 
@@ -108,20 +114,20 @@ The policy model was [evaluated by humans,](https://github.com/openai/following-
 
 --
 
-<h1 align="center">Data Skillset Roadmap</h1>
+<h1 align="center">📍 Data Skillset Roadmap</h1>
 
 ![Logo](https://lms.onnocenter.or.id/wiki/images/b/bb/Image_bc1fdaa7-c81d-4c41-a313-b1236e4c847720191203_114823.jpg)
 
 --
 
-<h1 align="center">Python Roadmap</h1>
+<h1 align="center">📍 Python Roadmap</h1>
 
 ![Logo](https://roadmap.sh/roadmaps/python.png)
 Source: https://roadmap.sh/python
 
 --
 
-<h1 align="center">Python Terminology</h1>
+<h1 align="center">📍 Python Terminology</h1>
 Source: https://www.w3schools.com/python/python_ref_glossary.asp
 
 ### Beberapa Terms Basic
@@ -136,7 +142,7 @@ Source: https://www.w3schools.com/python/python_ref_glossary.asp
 
 --
 
-<h1 align="center">Dataset, Model, Evaluasi</h1>
+<h1 align="center">📍 Dataset, Model, Evaluasi</h1>
 
 ![Logo](https://lms.onnocenter.or.id/wiki/images/9/9f/Image_e4a257c0-1b12-49e8-9af1-07a01b892e5820200115_040958.jpg)
 ![Logo](https://serokell.io/files/df/dfsdv4ab.2_(23)_(1).jpg)
