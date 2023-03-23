@@ -13,7 +13,7 @@
 1. [Penegenalan Analisis dan Visualiasi Data menggunakan Python](https://youtube.com/live/3dlj5VZEKN8)
 
 ### 🔎 Intermezzo & Funfact
-1. **[Sejarah ML, DL, Ai](#Sejarah-ML-DL-Ai)**
+1. **[Sejarah ML, DL, Ai](-sejarah-ml-dl-ai)**
 2. **[Survey Developer Dunia terhadap Python](#survey-developer-dunia-terhadap-python)**
 3. **[Dibalik Layar ChatGPT](#dibalik-layar-chatGPT)**
 
