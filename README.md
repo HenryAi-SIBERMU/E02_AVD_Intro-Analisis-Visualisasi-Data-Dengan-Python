@@ -30,7 +30,7 @@
 ### 💡 Materi - Tools Installation
 1. [instalasi Python](https://www.youtube.com/watch?v=t3jhhAuGygs)
 2. [instalasi Anaconda](https://www.youtube.com/watch?v=qs43taEzepc)
-3. [instalasi Jupyter & Orange](https://www.youtube.com/watch?v=t3jhhAuGygs)
+3. [instalasi Jupyter & Orange](https://www.youtube.com/watch?v=syijLJ3oQzU)
 4. [instalasi Package & Library (Numpy,Scipy,Pandas,Matplotlib,Tensorflow,Keras](https://www.youtube.com/watch?v=7_o_kjG1Sfs)
 
 ### 💡 Materi - Run/Compile Basic Python Syntax
