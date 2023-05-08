@@ -3,17 +3,17 @@
 # Outline Pertemuan 2 - Pengenalan lanjutan dan Instalasi Tools Analisis Visualisasi Data Dengan PYTHON
 
 ### 📖 Refrensi
-1. [Machine Learning Yearning](https://youtube.com/live/3dlj5VZEKN8) By Andrew Ng
-2. [The Hundred Page Machine Learning Book](https://youtube.com/live/3dlj5VZEKN8) By Andriy Burkov
-3. [Learning From Data](https://youtube.com/live/3dlj5VZEKN8) By Yaser S. Abu Mostafa
-4. [Pengenalan Konsep Pembelajaran Mesin dan Deep Learning](https://youtube.com/live/3dlj5VZEKN8) By Jan Wira Gotama Putra
+1. [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf) By Andrew Ng
+2. [The Hundred Page Machine Learning Book](https://mml-book.github.io/) By Marc Peter
+3. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) By Jake VanderPlas
+4. [Pengenalan Konsep Pembelajaran Mesin dan Deep Learning](https://wiragotama.github.io/ebook_machine_learning.html) By Jan Wira Gotama Putra
 5. [Web App ML](https://teachablemachine.withgoogle.com/) By Google
 
 ### 📋 Preview Pertemuan Perdana
 1. [Penegenalan Analisis dan Visualiasi Data menggunakan Python](https://youtube.com/live/3dlj5VZEKN8)
 
 ### 🔎 Intermezzo & Funfact
-1. **[Sejarah ML, DL, Ai](#sejarah-ml-dl-ai)**
+1. **[Sejarah ML, DL, Ai](#📍-sejarah-ml-dl-ai)**
 2. **[Survey Developer Dunia terhadap Python](#survey-developer-dunia-terhadap-python)**
 3. **[Dibalik Layar ChatGPT](#dibalik-layar-chatGPT)**
 
