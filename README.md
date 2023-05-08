@@ -13,35 +13,34 @@
 1. [Penegenalan Analisis dan Visualiasi Data menggunakan Python](https://youtube.com/live/3dlj5VZEKN8)
 
 ### 🔎 Intermezzo & Funfact
-1. **[Sejarah ML, DL, Ai](#📍-sejarah-ml-dl-ai)**
-2. **[Survey Developer Dunia terhadap Python](#survey-developer-dunia-terhadap-python)**
-3. **[Dibalik Layar ChatGPT](#dibalik-layar-chatGPT)**
+1. **[Sejarah ML, DL, Ai](#-sejarah-ml-dl-ai)**
+2. **[Survey Developer Dunia terhadap Python](#-survey-developer-dunia-terhadap-python)**
+3. **[Dibalik Layar ChatGPT](#-dibalik-layar-chatgpt)**
 
 ### 💡 Materi - Intro 101 Data Engineer, Data Analyst, Data Science
-1. **[Data Skillset Roadmap](#data-skillset-roadmap)**
+1. **[Data Skillset Roadmap](#-data-skillset-roadmap)**
 
 ### 💡 Materi - Intro 101 Data Science Dengan Python
-1. **[Python Roadmap](#python-roadmap)**
-2. **[Python Terminology](#python-terminology)**
-3. **[Dataset, Model, Evaluasi](#dataset,-model,-evaluasi)**
-4. **[Anaconda Navigator](#anaconda-navigator)**
-5. **[Jupyter Notebook](#jupyter-notebook)**
+1. **[Python Roadmap](#-python-roadmap)**
+2. **[Python Terminology](#-python-terminology)**
+3. **[Dataset, Model, Evaluasi](#-dataset-model-evaluasi)**
+4. **[Anaconda Navigator](#-anaconda-navigator)**
+5. **[Jupyter Notebook](#-jupyter-notebook)**
 
 ### 💡 Materi - Tools Installation
-1. **[instalasi Python](#instalasi-python)**
-2. **[instalasi Anaconda](#instalasi-anaconda)**
-3. **[instalasi Jupyter](#instalasi-jupyter)**
-5. **[instalasi orange](#instalasi-orange)**
-4. **[instalasi Package & Library](#package-&-library)**
+1. [instalasi Python](https://www.youtube.com/watch?v=t3jhhAuGygs)
+2. [instalasi Anaconda](https://www.youtube.com/watch?v=t3jhhAuGygs)
+3. [instalasi Jupyter](https://www.youtube.com/watch?v=t3jhhAuGygs)
+5. [instalasi orange](https://www.youtube.com/watch?v=t3jhhAuGygs)
+4. [instalasi Package & Library](https://www.youtube.com/watch?v=t3jhhAuGygs)
 
 ### 💡 Materi - Run/Compile Basic Python Syntax
-1. **[Hello World](#hello-world)**
-2. **[Basic Syntax](#basic-syntax)**
-
+1. [Hello World](https://github.com/HenryAi-SIBERMU/Pertemuan02_Intro-Analisis-Visualisasi-Data-Dengan-Python/blob/main/2.%20helloworld.py)
+2. [Basic Syntax](https://github.com/HenryAi-SIBERMU/Pertemuan02_Intro-Analisis-Visualisasi-Data-Dengan-Python/blob/main/2.%20helloworld.py)
 
 
 ### 💡 Materi - Experiment REPO #1
-1. **[Repo Visualisasi Data dengan Dataset IRIS](#free-books)**
+1. [Repo Visualisasi Data dengan Dataset IRIS](https://github.com/HenryAi-SIBERMU/Pertemuan02_Intro-Analisis-Visualisasi-Data-Dengan-Python/blob/main/3.%20Klasifikasi%20dengan%20Iris%20Dataset%20.ipynb)
 
 --
 
