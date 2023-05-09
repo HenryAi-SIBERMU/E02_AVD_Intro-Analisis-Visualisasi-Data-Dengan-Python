@@ -115,7 +115,7 @@ The policy model was [evaluated by humans,](https://github.com/openai/following-
 <h1 align="center">📍 Data Skillset Roadmap</h1>
 
 ![Logo](https://lms.onnocenter.or.id/wiki/images/b/bb/Image_bc1fdaa7-c81d-4c41-a313-b1236e4c847720191203_114823.jpg)
-
+[Download Gambar Full](https://lms.onnocenter.or.id/wiki/images/b/bb/Image_bc1fdaa7-c81d-4c41-a313-b1236e4c847720191203_114823.jpg)
 --
 
 <h1 align="center">📍 Python Roadmap</h1>
