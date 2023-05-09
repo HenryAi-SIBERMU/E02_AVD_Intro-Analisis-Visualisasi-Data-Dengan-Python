@@ -157,3 +157,18 @@ Source: https://www.w3schools.com/python/python_ref_glossary.asp
 - https://datasetsearch.research.google.com/
 - https://www.kaggle.com/
 - https://huggingface.co/
+
+<h1 align="center">📍 Anaconda Navigator</h1>
+
+![Logo](https://docs.anaconda.com/_images/nav-tabs.png)
+
+### Instalasi, konfigurasi Environtment Anaconda :
+- (https://www.youtube.com/watch?v=qs43taEzepc)
+
+--
+<h1 align="center">📍 Jupyter Notebook</h1>
+
+![Logo](https://www.dataquest.io/wp-content/uploads/2019/01/interface-screenshot.png) 
+### Instalasi, konfigurasi Jupyter Notebook :
+- (https://www.youtube.com/watch?v=syijLJ3oQzU)
+
