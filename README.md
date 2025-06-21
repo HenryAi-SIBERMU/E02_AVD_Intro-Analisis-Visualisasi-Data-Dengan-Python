@@ -142,7 +142,7 @@ Source: https://www.w3schools.com/python/python_ref_glossary.asp
 
 <h1 align="center">📍 Dataset, Model, Evaluasi</h1>
 
-![Logo](https://lms.onnocenter.or.id/wiki/images/9/9f/Image_e4a257c0-1b12-49e8-9af1-07a01b892e5820200115_040958.jpg)
+![Logo](lms.onnocenter.or.id/wiki/images/9/9f/Image_e4a257c0-1b12-49e8-9af1-07a01b892e5820200115_040958.jpg)
 ![Logo](https://serokell.io/files/df/dfsdv4ab.2_(23)_(1).jpg)
 
 ### Populer Benchmark Dataset
